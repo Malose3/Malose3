@@ -36,6 +36,17 @@ Esta experiencia me ha permitido trabajar el análisis de procesos, la definici�
 
 Por confidencialidad, se describe únicamente el enfoque general. La organización, los datos de clientes, los scripts y los detalles operativos permanecen privados.
 
+## Ejemplos de código para revisar
+
+Estas muestras se han preparado para el portafolio con asistencia de Codex. Incluyen código ejecutable, datos ficticios, instrucciones y pruebas.
+
+| Ejemplo | Qué muestra | Origen |
+| --- | --- | --- |
+| [Automatización de tareas de CRM](examples/crm-workflow) | Validación, detección de duplicados y propuestas de seguimiento | Demostración independiente; no reproduce el sistema ni las reglas de una empresa |
+| [Tiempos de natación](https://github.com/Malose3/swim-club-case-study/tree/main/examples/swim-times) | Lectura, normalización y validación de tiempos | Adaptación aislada de una utilidad de la app |
+
+Los scripts originales del CRM y el código completo de la aplicación permanecen privados.
+
 ## Herramientas que utilizo
 
 **Codex · OpenCode · Claude Code · Git/GitHub · Supabase · Vercel**
@@ -61,3 +72,4 @@ Estas son áreas de aprendizaje en curso. El caso de estudio recoge el trabajo c
 5. Documentar el alcance y proteger la información privada.
 
 Me interesa incorporarme a un equipo donde pueda aportar conocimiento de procesos y necesidades de usuario, seguir aprendiendo y asumir responsabilidades técnicas de forma progresiva.
+

@@ -1,0 +1,9 @@
+[
+  { "id": "DEMO-001", "email": "nuevo@example.invalid", "stage": "new", "lastContactDate": null },
+  { "id": "DEMO-002", "email": "seguimiento@example.invalid", "stage": "contacted", "lastContactDate": "2026-11-01" },
+  { "id": "DEMO-003", "email": "reciente@example.invalid", "stage": "contacted", "lastContactDate": "2026-11-07" },
+  { "id": "DEMO-004", "email": "cerrado@example.invalid", "stage": "closed", "lastContactDate": "2026-10-20" },
+  { "id": "DEMO-005", "email": " NUEVO@EXAMPLE.INVALID ", "stage": "new", "lastContactDate": null },
+  { "id": "DEMO-006", "email": "sin-correo-valido", "stage": "new", "lastContactDate": null },
+  { "id": "DEMO-007", "email": "fecha@example.invalid", "stage": "contacted", "lastContactDate": "2026-02-30" }
+]
