@@ -11,13 +11,13 @@ Mi experiencia en el entorno de un club de natación me ayuda a identificar nece
 Aplicación web en desarrollo para organizar calendarios, entrenamientos, asistencia, convocatorias y marcas deportivas.
 
 - **Mi aportación:** definir necesidades, pedir e iterar cambios, probar resultados y detectar errores.
-- **Cómo la construyo:** con ChatGPT y OpenCode como apoyo para programar, comprender el código y resolver problemas.
+- **Cómo la construyo:** con Codex, OpenCode y Claude Code como apoyo para programar, comprender el código y resolver problemas.
 - **Tecnologías del proyecto:** React, TypeScript, Vite, Tailwind CSS, Supabase y configuración de despliegue en Vercel.
 - **Automatización dentro de la app:** importación de récords desde CSV/Excel, normalización de datos y generación de informes y calendarios.
 - **Estado:** proyecto propio en desarrollo. El caso de estudio explica el trabajo; el código de uso interno permanece privado.
 
 ## Herramientas y tecnologías
-ChatGPT · OpenCode · Git/GitHub · Supabase · Vercel
+Codex · OpenCode · Claude Code · Git/GitHub · Supabase · Vercel
 
 Las utilizo en mi aprendizaje y en el desarrollo asistido del proyecto. El stack de la aplicación describe las tecnologías presentes en ella y no implica dominio avanzado de todas.
 
