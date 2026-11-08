@@ -1,30 +1,46 @@
 # Manuel López Serrano
-### Junior AI & Automation · Desarrollo asistido por IA
+### IA aplicada y automatización · Perfil junior · Desarrollo asistido por IA
 
-Estoy en transición del ámbito deportivo a IT e inteligencia artificial. Aprendo de forma autodidacta construyendo proyectos propios y busco mi primera oportunidad **junior, trainee o de prácticas** en IA aplicada y automatización.
+Estoy en transición del ámbito deportivo a IT e inteligencia artificial. Aprendo de forma autodidacta construyendo proyectos propios y busco mi primera oportunidad **junior, trainee o de prácticas** en desarrollo asistido por IA y automatización.
 
-Mi experiencia en el entorno de un club de natación me ayuda a identificar necesidades reales y convertirlas en requisitos para una aplicación.
+Mi experiencia en la gestión deportiva me ayuda a identificar necesidades, organizar procesos y convertir problemas del día a día en requisitos para una aplicación. Aporto ese conocimiento del usuario y una forma de trabajar basada en probar, detectar errores y mejorar.
 
 ## Proyecto destacado
 
 ### [Gestión de un club de natación — caso de estudio](https://github.com/Malose3/swim-club-case-study)
+
 Aplicación web en desarrollo para organizar calendarios, entrenamientos, asistencia, convocatorias y marcas deportivas.
 
 - **Mi aportación:** definir necesidades, pedir e iterar cambios, probar resultados y detectar errores.
 - **Cómo la construyo:** con Codex, OpenCode y Claude Code como apoyo para programar, comprender el código y resolver problemas.
 - **Tecnologías del proyecto:** React, TypeScript, Vite, Tailwind CSS, Supabase y configuración de despliegue en Vercel.
 - **Automatización dentro de la app:** importación de récords desde CSV/Excel, normalización de datos y generación de informes y calendarios.
-- **Estado:** proyecto propio en desarrollo. El caso de estudio explica el trabajo; el código de uso interno permanece privado.
+- **Estado:** proyecto propio en desarrollo, con documentación y una presentación visual pública. El código de uso interno y los datos del club permanecen privados.
 
-## Herramientas y tecnologías
-Codex · OpenCode · Claude Code · Git/GitHub · Supabase · Vercel
+**[Explorar el caso de estudio](https://github.com/Malose3/swim-club-case-study)** · **[Ver la presentación breve en vídeo](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)**
 
-Las utilizo en mi aprendizaje y en el desarrollo asistido del proyecto. El stack de la aplicación describe las tecnologías presentes en ella y no implica dominio avanzado de todas.
+## Herramientas que utilizo
 
-## En desarrollo
-Fundamentos de programación · bases de datos · frontend/backend · integración de servicios · automatización de procesos.
+**Codex · OpenCode · Claude Code · Git/GitHub · Supabase · Vercel**
 
-Me interesa avanzar hacia la implementación práctica de IA y automatización. Este portfolio recoge el trabajo que ya puedo mostrar y explicar; iré incorporando nuevos proyectos conforme los construya y comprenda.
+Las utilizo en mi aprendizaje y en el desarrollo asistido del proyecto. Estoy reforzando la comprensión del código, las integraciones y las pruebas para ganar autonomía técnica.
+
+## Qué estoy aprendiendo
+
+- **Google Cloud:** fundamentos de la nube y posibilidades de aplicación en proyectos de software y automatización.
+- **Figma:** diseño de interfaces, prototipado y comunicación de ideas para mejorar la experiencia de uso.
+- **Análisis y mejora de procesos:** identificar tareas repetitivas, ordenar pasos, definir requisitos y valorar qué conviene automatizar.
+- **Desarrollo e integración:** fundamentos de programación, bases de datos, frontend/backend y conexión entre servicios.
+- **Validación y documentación:** comprobar resultados, registrar incidencias y explicar los cambios realizados.
+
+Estas son áreas de aprendizaje en curso. El caso de estudio recoge el trabajo concreto que puedo mostrar.
 
 ## Cómo trabajo
-Parto de una necesidad concreta, la convierto en instrucciones para la IA, reviso el resultado en la aplicación y vuelvo a iterar. Estoy reforzando la comprensión del código, la documentación y las pruebas para ganar autonomía técnica.
+
+1. Entender la necesidad y quién va a utilizar la solución.
+2. Describir el proceso y convertirlo en requisitos y tareas.
+3. Apoyarme en asistentes de IA para desarrollar e iterar.
+4. Probar el resultado, detectar errores y ajustar.
+5. Documentar el alcance y proteger la información privada.
+
+Me interesa incorporarme a un equipo donde pueda aportar conocimiento de procesos y necesidades de usuario, seguir aprendiendo y asumir responsabilidades técnicas de forma progresiva.
