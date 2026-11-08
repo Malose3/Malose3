@@ -21,7 +21,20 @@ Aplicación web en desarrollo para organizar calendarios, entrenamientos, asiste
 
 ### Automatización de procesos con un CRM
 
-También he trabajado en la automatización de procesos vinculados a un CRM. Por confidencialidad, esta experiencia se presenta de forma general, sin identificar a la organización ni publicar datos de clientes, flujos internos o configuraciones.
+He trabajado en la automatización de tareas vinculadas a un CRM, partiendo de la observación del trabajo diario y de necesidades concretas.
+
+**De la necesidad al script:**
+
+1. **Observar el proceso:** entender cómo se realizaban las tareas e identificar pasos manuales y repetitivos.
+2. **Definir la necesidad:** concretar qué se quería resolver y qué partes del trabajo podían automatizarse.
+3. **Buscar una solución:** traducir esa necesidad en una secuencia de pasos que pudiera ejecutar un script.
+4. **Crear scripts con apoyo de IA:** convertir esos pasos en automatizaciones, revisando y ajustando la solución.
+
+**Mi aportación:** conectar el conocimiento del proceso con una solución técnica: detectar una necesidad, plantear cómo abordarla y participar en la creación de scripts para automatizar tareas.
+
+Esta experiencia me ha permitido trabajar el análisis de procesos, la definición de requisitos y el desarrollo asistido por IA aplicado a una necesidad real.
+
+Por confidencialidad, se describe únicamente el enfoque general. La organización, los datos de clientes, los scripts y los detalles operativos permanecen privados.
 
 ## Herramientas que utilizo
 
