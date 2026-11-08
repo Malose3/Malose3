@@ -5,7 +5,7 @@ Estoy en transición del ámbito deportivo a IT e inteligencia artificial. Apren
 
 Mi experiencia en la gestión deportiva me ayuda a identificar necesidades, organizar procesos y convertir problemas del día a día en requisitos para una aplicación. Aporto ese conocimiento del usuario y una forma de trabajar basada en probar, detectar errores y mejorar.
 
-## Proyecto destacado
+## Proyectos y trabajos
 
 ### [Gestión de un club de natación — caso de estudio](https://github.com/Malose3/swim-club-case-study)
 
@@ -18,6 +18,10 @@ Aplicación web en desarrollo para organizar calendarios, entrenamientos, asiste
 - **Estado:** proyecto propio en desarrollo, con documentación y una presentación visual pública. El código de uso interno y los datos del club permanecen privados.
 
 **[Explorar el caso de estudio](https://github.com/Malose3/swim-club-case-study)** · **[Ver la presentación breve en vídeo](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)**
+
+### Automatización de procesos con un CRM
+
+También he trabajado en la automatización de procesos vinculados a un CRM. Por confidencialidad, esta experiencia se presenta de forma general, sin identificar a la organización ni publicar datos de clientes, flujos internos o configuraciones.
 
 ## Herramientas que utilizo
 
