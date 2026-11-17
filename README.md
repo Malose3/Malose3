@@ -1,75 +1,47 @@
 # Manuel López Serrano
-### IA aplicada y automatización · Perfil junior · Desarrollo asistido por IA
 
-Estoy en transición del ámbito deportivo a IT e inteligencia artificial. Aprendo de forma autodidacta construyendo proyectos propios y busco mi primera oportunidad **junior, trainee o de prácticas** en desarrollo asistido por IA y automatización.
+**Junior software development · React & TypeScript projects · AI-assisted development**
 
-Mi experiencia en la gestión deportiva me ayuda a identificar necesidades, organizar procesos y convertir problemas del día a día en requisitos para una aplicación. Aporto ese conocimiento del usuario y una forma de trabajar basada en probar, detectar errores y mejorar.
+I am moving from sports programme leadership into software development. I build practical projects with substantial AI assistance and am looking for my first professional software engineering role.
 
-## Proyectos y trabajos
+My contribution starts with understanding a user's problem, choosing a manageable scope, guiding iterations and checking behaviour. I am developing my programming fundamentals and technical independence.
 
-### [Gestión de un club de natación — caso de estudio](https://github.com/Malose3/swim-club-case-study)
+**[Start here: a five-minute project review](https://github.com/Malose3/Malose3/blob/main/REVIEWER_GUIDE.md)**
 
-Aplicación web en desarrollo para organizar calendarios, entrenamientos, asistencia, convocatorias y marcas deportivas.
+## Selected work
 
-- **Mi aportación:** definir necesidades, pedir e iterar cambios, probar resultados y detectar errores.
-- **Cómo la construyo:** con Codex, OpenCode y Claude Code como apoyo para programar, comprender el código y resolver problemas.
-- **Tecnologías del proyecto:** React, TypeScript, Vite, Tailwind CSS, Supabase y configuración de despliegue en Vercel.
-- **Automatización dentro de la app:** importación de récords desde CSV/Excel, normalización de datos y generación de informes y calendarios.
-- **Estado:** proyecto propio en desarrollo, con documentación y una presentación visual pública. El código de uso interno y los datos del club permanecen privados.
-
-**[Explorar el caso de estudio](https://github.com/Malose3/swim-club-case-study)** · **[Ver la presentación breve en vídeo](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)**
-
-### Automatización de procesos con un CRM
-
-He trabajado en la automatización de tareas vinculadas a un CRM, partiendo de la observación del trabajo diario y de necesidades concretas.
-
-**De la necesidad al script:**
-
-1. **Observar el proceso:** entender cómo se realizaban las tareas e identificar pasos manuales y repetitivos.
-2. **Definir la necesidad:** concretar qué se quería resolver y qué partes del trabajo podían automatizarse.
-3. **Buscar una solución:** traducir esa necesidad en una secuencia de pasos que pudiera ejecutar un script.
-4. **Crear scripts con apoyo de IA:** convertir esos pasos en automatizaciones, revisando y ajustando la solución.
-
-**Mi aportación:** conectar el conocimiento del proceso con una solución técnica: detectar una necesidad, plantear cómo abordarla y participar en la creación de scripts para automatizar tareas.
-
-Esta experiencia me ha permitido trabajar el análisis de procesos, la definición de requisitos y el desarrollo asistido por IA aplicado a una necesidad real.
-
-Por confidencialidad, se describe únicamente el enfoque general. La organización, los datos de clientes, los scripts y los detalles operativos permanecen privados.
-
-## Ejemplos de código para revisar
-
-Estas muestras se han preparado para el portafolio con asistencia de Codex. Incluyen código ejecutable, datos ficticios, instrucciones y pruebas.
-
-| Ejemplo | Qué muestra | Origen |
+| Project | What you can review | Status |
 | --- | --- | --- |
-| [Automatización de tareas de CRM](examples/crm-workflow) | Validación, detección de duplicados y propuestas de seguimiento | Demostración independiente; no reproduce el sistema ni las reglas de una empresa |
-| [Tiempos de natación](https://github.com/Malose3/swim-club-case-study/tree/main/examples/swim-times) | Lectura, normalización y validación de tiempos | Adaptación aislada de una utilidad de la app |
+| **[Claro — AI learning companion](https://github.com/Malose3/claro-learning-companion)** | React + TypeScript, a server-side Gemini integration, validation, automated tests and product decisions | Runnable locally; prepared lessons need no API key. Public hosting pending |
+| **[Swimming club management — case study](https://github.com/Malose3/swim-club-case-study)** | A real operational problem, architecture, visual presentation and an isolated time-normalisation example | Public documentation and sample code; the full app and operational data are private |
+| **[CRM workflow sample](https://github.com/Malose3/Malose3/tree/main/examples/crm-workflow)** | Input validation, duplicate detection and reviewable follow-up suggestions | Standalone JavaScript demo with fictional records and tests; no live CRM connection |
 
-Los scripts originales del CRM y el código completo de la aplicación permanecen privados.
+### Start with Claro
 
-## Herramientas que utilizo
+A learner chooses a goal, reads an explanation and worked example, answers three questions and reviews feedback. The repository explains why the prototype uses a short learning loop, validates model output on the server and stores history in the browser.
 
-**Codex · OpenCode · Claude Code · Git/GitHub · Supabase · Vercel**
+[Case study](https://github.com/Malose3/claro-learning-companion/blob/main/CASE_STUDY.md) · [Three-minute demo script](https://github.com/Malose3/claro-learning-companion/blob/main/DEMO_SCRIPT.md) · [CI checks](https://github.com/Malose3/claro-learning-companion/actions)
 
-Las utilizo en mi aprendizaje y en el desarrollo asistido del proyecto. Estoy reforzando la comprensión del código, las integraciones y las pruebas para ganar autonomía técnica.
+## My contribution and AI assistance
 
-## Qué estoy aprendiendo
+- **I bring:** knowledge of operational needs, scope and priority decisions, feedback on behaviour and persistence through setup and debugging.
+- **AI provides substantial support:** generating code and tests, investigating errors and drafting technical documentation. I use AI coding assistants including Codex, OpenCode and Claude Code across my learning projects; each project describes its own contribution.
+- **I am strengthening:** JavaScript and TypeScript fundamentals, HTTP/JSON APIs, data handling, testing and the ability to explain and maintain the code myself.
 
-- **Google Cloud:** fundamentos de la nube y posibilidades de aplicación en proyectos de software y automatización.
-- **Figma:** diseño de interfaces, prototipado y comunicación de ideas para mejorar la experiencia de uso.
-- **Análisis y mejora de procesos:** identificar tareas repetitivas, ordenar pasos, definir requisitos y valorar qué conviene automatizar.
-- **Desarrollo e integración:** fundamentos de programación, bases de datos, frontend/backend y conexión entre servicios.
-- **Validación y documentación:** comprobar resultados, registrar incidencias y explicar los cambios realizados.
+These are independent learning projects, not previous professional software engineering employment. Generated code and passing tests are evidence to inspect, not proof that I independently mastered every technology.
 
-Estas son áreas de aprendizaje en curso. El caso de estudio recoge el trabajo concreto que puedo mostrar.
+## Technologies used in projects
 
-## Cómo trabajo
+React · TypeScript · Supabase · Git/GitHub · Vercel configuration · Gemini API
 
-1. Entender la necesidad y quién va a utilizar la solución.
-2. Describir el proceso y convertirlo en requisitos y tareas.
-3. Apoyarme en asistentes de IA para desarrollar e iterar.
-4. Probar el resultado, detectar errores y ajustar.
-5. Documentar el alcance y proteger la información privada.
+Used with AI assistance. My public examples focus on a small number of inspectable workflows rather than claiming advanced proficiency across this stack.
 
-Me interesa incorporarme a un equipo donde pueda aportar conocimiento de procesos y necesidades de usuario, seguir aprendiendo y asumir responsabilidades técnicas de forma progresiva.
+## Sobre mí
 
+Estoy en transición del ámbito deportivo al desarrollo de software. Busco mi primera oportunidad junior en un equipo donde pueda aportar conocimiento de procesos y necesidades de usuario, seguir aprendiendo y asumir responsabilidades técnicas de forma progresiva.
+
+En mis proyectos defino necesidades, priorizo, dirijo iteraciones, pruebo resultados y detecto errores. El código, las pruebas y la documentación se desarrollan con apoyo importante de IA; estoy reforzando mi capacidad para comprenderlos y mantenerlos.
+
+También he trabajado en automatización de tareas de CRM a partir de procesos reales. La organización, los datos y los scripts originales permanecen privados. El ejemplo público es una demostración independiente con reglas y datos ficticios.
+
+**Idiomas / Languages:** español nativo; inglés B1 aproximado, autoevaluado y sin certificación. English documentation is prepared with assistance and does not imply fluent spoken English.
