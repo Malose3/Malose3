@@ -27,9 +27,9 @@ Open the local URL printed by Vite. Start with a labelled prepared lesson. Live 
 
 **Boundary:** the repository is not a public hosted demo. AI tests mock the provider. The recorded live request demonstrates connectivity, not educational effectiveness. Supabase is optional and unverified. Rate limiting is process-local.
 
-## 2. A small data-validation problem — swimming times
+## 2. Club application architecture and a data-validation sample
 
-**[Open the sample and its instructions](https://github.com/Malose3/swim-club-case-study/tree/main/examples/swim-times)**
+**[Technical application review](https://github.com/Malose3/swim-club-case-study/blob/main/TECHNICAL_REVIEW.md)** · **[Short video](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)** · **[Sample and instructions](https://github.com/Malose3/swim-club-case-study/tree/main/examples/swim-times)**
 
 The sample accepts inputs such as `1:02,35` and `62.35`, normalises them to `01:02.35` and rejects `1:60`. It uses integer hundredths and a strict input contract.
 
@@ -46,7 +46,7 @@ node --test examples/swim-times/swim-times.test.mjs
 
 ## 3. A small automation problem — fictional CRM records
 
-**[Open the sample and its instructions](https://github.com/Malose3/Malose3/tree/main/examples/crm-workflow)**
+**[Technical walkthrough](AUTOMATION_REVIEW.md)** · **[Sample and instructions](https://github.com/Malose3/Malose3/tree/main/examples/crm-workflow)**
 
 This sample separates valid and invalid records, handles duplicate identifiers and emails, and proposes tasks for human review. Dates are evaluated against a fixed reference so the demo is reproducible.
 

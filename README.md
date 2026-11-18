@@ -10,17 +10,39 @@ My contribution starts with understanding a user's problem, choosing a manageabl
 
 ## Selected work
 
-| Project | What you can review | Status |
-| --- | --- | --- |
-| **[Claro — AI learning companion](https://github.com/Malose3/claro-learning-companion)** | React + TypeScript, a server-side Gemini integration, validation, automated tests and product decisions | Runnable locally; prepared lessons need no API key. Public hosting pending |
-| **[Swimming club management — case study](https://github.com/Malose3/swim-club-case-study)** | A real operational problem, architecture, visual presentation and an isolated time-normalisation example | Public documentation and sample code; the full app and operational data are private |
-| **[CRM workflow sample](https://github.com/Malose3/Malose3/tree/main/examples/crm-workflow)** | Input validation, duplicate detection and reviewable follow-up suggestions | Standalone JavaScript demo with fictional records and tests; no live CRM connection |
+### 1. Swimming club management
 
-### Start with Claro
+**React · TypeScript · PWA · Supabase integration**
 
-A learner chooses a goal, reads an explanation and worked example, answers three questions and reviews feedback. The repository explains why the prototype uses a short learning loop, validates model output on the server and stores history in the browser.
+A project grounded in daily club operations: planning, attendance, competition communication and swimming results. The public case study explains the application architecture; an isolated JavaScript sample demonstrates strict parsing, integer time representation and automated tests.
 
-[Case study](https://github.com/Malose3/claro-learning-companion/blob/main/CASE_STUDY.md) · [Three-minute demo script](https://github.com/Malose3/claro-learning-companion/blob/main/DEMO_SCRIPT.md) · [CI checks](https://github.com/Malose3/claro-learning-companion/actions)
+[![Swimming club application presentation](https://raw.githubusercontent.com/Malose3/swim-club-case-study/main/media/portada-presentacion.jpg)](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)
+
+**[Watch the 15-second presentation](https://github.com/Malose3/swim-club-case-study/blob/main/media/presentacion-publica-segura.mp4)** · **[Technical review](https://github.com/Malose3/swim-club-case-study/blob/main/TECHNICAL_REVIEW.md)** · **[Case study](https://github.com/Malose3/swim-club-case-study)** · **[Runnable code](https://github.com/Malose3/swim-club-case-study/tree/main/examples/swim-times)**
+
+The presentation uses three reviewed still images; it is not an interactive demo. The full application, internal implementation and operational data remain private.
+
+### 2. Claro — AI learning companion
+
+**React · TypeScript · Gemini API · Runtime validation**
+
+A learner chooses a goal, reads an explanation and worked example, answers three questions and reviews feedback. The repository includes the implementation, product decisions, tests and local setup instructions. Prepared lessons need no API key.
+
+**[Explore the repository](https://github.com/Malose3/claro-learning-companion)** · **[Case study](https://github.com/Malose3/claro-learning-companion/blob/main/CASE_STUDY.md)** · **[Three-minute demo script](https://github.com/Malose3/claro-learning-companion/blob/main/DEMO_SCRIPT.md)** · **[CI checks](https://github.com/Malose3/claro-learning-companion/actions)**
+
+Working locally; public hosting remains pending. Model-output validation and provider-error handling are documented, with limits on what the checks establish.
+
+### 3. CRM workflow simulation
+
+**JavaScript · Input validation · Sets · Deterministic rules · Node.js tests**
+
+A standalone sample that validates fictional records, detects duplicates and generates task suggestions for human review. Seven demo records produce four accepted records, three issues and two suggestions.
+
+**[Technical walkthrough](https://github.com/Malose3/Malose3/blob/main/AUTOMATION_REVIEW.md)** · **[Code and simulation](https://github.com/Malose3/Malose3/tree/main/examples/crm-workflow)** · **[Ten automated tests](https://github.com/Malose3/Malose3/blob/main/examples/crm-workflow/workflow.test.mjs)**
+
+[![CRM sample checks](https://github.com/Malose3/Malose3/actions/workflows/portfolio-check.yml/badge.svg)](https://github.com/Malose3/Malose3/actions/workflows/portfolio-check.yml)
+
+The sample uses invented rules and data, runs locally and does not send messages or update an external CRM.
 
 ## My contribution and AI assistance
 
